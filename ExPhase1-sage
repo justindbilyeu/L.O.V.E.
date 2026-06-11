@@ -1,0 +1,137 @@
+# Tradition 2 of 8: HEBREW
+
+**Extractor:** ChatGPT  
+**Date:** 2026-06-11  
+**Status:** Complete — multiple ambiguities flagged  
+**Protocol version:** Phase One Search Protocol v1.0
+
+---
+
+# Sources (G2-compliant)
+
+## Primary scholarly sources used
+
+1. Ackerman, Susan. (2002). "The Personal Is Political: Covenantal and Affectionate Love (AHEB, 'AHABA) in the Hebrew Bible." *Vetus Testamentum* 52(4): 437–458.
+
+2. Exum, J. Cheryl. (2016). "Desire, Love, and Romance in the Hebrew Bible." In *Oxford Research Encyclopedia of Religion*. Oxford University Press.
+
+3. Goodman, Lenn E. (2024). "Love, Human and Divine in the Hebrew Bible and Judaic Tradition." In *Love: A History*, edited by Ryan Patrick Hanley. Oxford University Press.
+
+4. Cash, Emily M. H. (2025). "Clinging in Love: Attachment Indicators and Implications in Deuteronomy 10.12–11.1." *Journal for the Study of the Old Testament* 49(4).
+
+5. Kugler, Gili, and Ohad Magori. (2023). "Hesed in Ruth: A Frail Moral Tool in an Inflexible Social Structure." *Religions* 14(5): 604.
+
+## Supplementary reference
+
+6. *Encyclopedia Judaica*. "Love (in the Bible)." Used only for lexical corroboration and terminology orientation.
+
+**Source count:** 6 (protocol minimum: 2) ✓
+
+---
+
+# Extraction: Two major Hebrew love-concepts identifiable in the scholarly literature
+
+---
+
+## Concept 1: אַהֲבָה / אָהַב (ʾahavah / ʾahav)
+
+| Field | Extraction |
+|---------|---------|
+| Tradition | Hebrew (Biblical Hebrew) |
+| Love concept | אַהֲבָה / אָהַב (ʾahavah / ʾahav) |
+| Core claim | ʾAhav/ʾahavah functions as a relational bond that can describe divine-human, political-covenantal, familial, and romantic attachment. |
+| Mechanism | *CONTESTED.* Ackerman argues that covenantal and interpersonal uses share a hierarchical structure in which the superior party is frequently characterized as the lover. Cash argues that Deuteronomic love combines affective, behavioral, political, and attachment dimensions. |
+| Cost | *CONTESTED.* In covenantal contexts, love entails loyalty and obligation within an asymmetrical relationship; scholars disagree whether the emphasis is primarily affective, political, behavioral, or attachment-based. |
+| Protection target | Israel–YHWH covenant relationship; also family and intimate human relationships depending on textual context. |
+| Contested? | **Yes.** Major dispute concerns whether biblical ʾahav should be understood primarily as emotion, covenant loyalty, political allegiance, attachment behavior, or some combination thereof. |
+
+### Cross-tradition lineage flag
+
+Potential antecedent to later Judeo-Christian formulations associated with agapē. Coordinate with Greek extraction to avoid double-counting lineage effects.
+
+---
+
+## Concept 2: חֶסֶד (ḥesed)
+
+| Field | Extraction |
+|---------|---------|
+| Tradition | Hebrew (Biblical Hebrew) |
+| Love concept | חֶסֶד (ḥesed) |
+| Core claim | Ḥesed denotes covenantal loyalty expressed through concrete acts of faithfulness, kindness, mercy, or steadfast commitment within a relationship. |
+| Mechanism | Relationship → obligation/faithfulness → action. Scholarship consistently describes ḥesed as enacted rather than merely felt; it operates through maintaining obligations and trust within an established relationship or covenant. |
+| Cost | The actor bears obligations of loyalty, assistance, and continued faithfulness even under adverse conditions. In Ruth, scholars argue that acts of ḥesed are often costly survival strategies within restrictive social structures. |
+| Protection target | Covenant relationships, vulnerable persons within those relationships, and the continuity of communal trust. |
+| Contested? | **Yes.** Scholars disagree whether ḥesed is best translated as love, mercy, kindness, loyalty, covenant faithfulness, grace, or some irreducible combination of these. Debate concerns translation and semantic center rather than its relational character. |
+
+### Cross-tradition lineage flag
+
+Frequently identified as part of the Hebrew covenantal tradition that informs later Jewish and Christian conceptions of divine love, including traditions later expressed through agapē discourse.
+
+---
+
+# Flags (G4 ambiguity log)
+
+## FLAG 1 — Hebrew scholarship does not yield a clean set of discrete love-types
+
+Unlike the Greek extraction, Hebrew scholarship generally centers on lexical fields (especially ʾahav and ḥesed) whose meanings vary across divine, political, familial, and romantic contexts. The literature does not consistently partition love into separate categories analogous to erōs/philia/agapē/storgē.
+
+## FLAG 2 — ʾAHAV is heavily contested
+
+Recent scholarship explicitly describes love in Deuteronomy as affective, behavioral, and political simultaneously. No consensus operational mechanism was identified. Any single-mechanism extraction would violate G4.
+
+## FLAG 3 — ḤESED translation remains disputed
+
+The scholarly dispute is not whether ḥesed exists as a coherent concept, but what English gloss best captures it: steadfast love, covenant loyalty, mercy, kindness, faithfulness, grace, or combinations thereof. Multiple scholars treat the term as resistant to reduction to a single English equivalent.
+
+## FLAG 4 — Romantic love is present but not structurally central
+
+Exum notes that explicit romantic usage of ʾahav is comparatively rare and that reciprocal romantic love receives sustained treatment primarily in the *Song of Songs*. The broader Hebrew love vocabulary is not organized around romantic desire in the way many Greek discussions of erōs are.
+
+## FLAG 5 — Concept/tradition boundaries leak
+
+The Hebrew tradition contributes conceptual material that later becomes intertwined with Judeo-Christian agapē discourse. Any final comparison matrix should explicitly track lineage relationships rather than treating traditions as isolated.
+
+## FLAG 6 — One tradition ≠ one definition
+
+The Hebrew corpus does not support a single operational definition of love. At minimum, ʾahav and ḥesed function differently and should be represented as separate concepts in the matrix.
+
+---
+
+# E1 — HYPOTHESIS ONLY
+
+**Not a finding. Not for matrix entry.**
+
+The Hebrew extraction suggests a possible structural distinction from the Greek extraction:
+
+- Greek concepts appear differentiated by relationship type (friendship, desire, family affection, self-giving love).
+- Hebrew concepts appear differentiated more by covenantal structure and relational obligation than by emotional category.
+
+This observation is a hypothesis only and requires adversarial comparison against the remaining traditions before use.
+
+---
+
+# Handoff Notes
+
+## What succeeded
+
+- Identified two heavily attested Hebrew love concepts (ʾahav/ʾahavah and ḥesed) with sufficient peer-reviewed support.
+- Located scholarship addressing divine-human, covenantal, familial, political, and romantic dimensions.
+- Verified active scholarly disputes surrounding both major concepts.
+- Successfully extracted all seven required fields while preserving disagreement where present.
+
+## What failed
+
+- Could not identify a peer-reviewed consensus that partitions Hebrew love into a larger stable taxonomy comparable to the Greek fourfold framework.
+- Could not extract a single uncontested mechanism for ʾahav without violating G4.
+
+## Sources wanted but not verified
+
+- Park, Song-Mi Suzie. *Love in the Hebrew Bible* (2023).
+- Additional specialized lexical studies on ḥesed from major Hebrew Bible journals.
+- Additional monograph-length treatments of covenantal love in Deuteronomy and the Deuteronomistic tradition.
+
+## What the next extractor or reviewer should know
+
+The principal danger is forcing Hebrew data into Greek categories. The scholarship reviewed here treats Hebrew love primarily as a relational-covenantal vocabulary rather than a taxonomy of distinct love-types. Any comparison matrix should preserve that asymmetry rather than normalize it away.
+
+**Protocol observation:** The addition of a mandatory "Contested?" field appears justified. Both major Hebrew concepts required it, and omitting it would force the extractor to conceal active scholarly disagreement.
