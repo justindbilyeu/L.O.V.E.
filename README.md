@@ -1,5 +1,4 @@
 # L.O.V.E.
-# L.O.V.E.
 
 *(backronym pending Phase One results — even the name waits for the data)*
 
