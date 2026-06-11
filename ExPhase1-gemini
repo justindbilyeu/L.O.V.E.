@@ -1,0 +1,52 @@
+## Primary Academic Sources
+ * **Fraser, Chris.** (2016). *The Philosophy of the Mozi: The First Consequentialists*. Columbia University Press.
+ * **Ivanhoe, Philip J.** (2013). *Confucian Moral Self Cultivation*. Hackett Publishing Company.
+ * **Lau, D. C.** (Translator). (1979). *The Analects (Lunyu)*. Penguin Books.
+ * **Nylan, Michael.** (2001). *The Five "Confucian" Classics*. Yale University Press.
+ * **Shun, Kwong-loi.** (1997). *Mencius and Early Chinese Thought*. Stanford University Press.
+ * **Wong, David B.** (1989). "Universalism versus Love with Distinctions: An Ancient Debate Revived." *Journal of Chinese Philosophy*, 16(3-4), 251-272.
+## Love-Concept Extractions
+### Concept 1: Rén (仁)
+| Field | Extraction Data |
+|---|---|
+| **1. Tradition** | Chinese (Early Confucian / Ruist) |
+| **2. Love Concept** | 仁 (*rén* / Benevolence, Humaneness, Authoritative Humanity) |
+| **3. Core Claim** | *Rén* structures human relationality by directing an agent to care for others dynamically, developing from foundational filial affection into a graded, out-ward radiating empathy (Shun, 1997; Ivanhoe, 2013). |
+| **4. Mechanism** | Graded love (*ai you cha deng* / 愛有差等). The active principle is psychological extension (*tui* / 推): an agent takes natural, instinctive affection rooted in kinship relations (filial piety) and intentionally projects it outward to increasingly distant circles of humanity (Lau, 1979; Shun, 1997). |
+| **5. Cost** | Demands rigorous, lifelong ritual cultivation (*li*) and emotional regulation; the primary cost is borne by the practicing agent who must subordinate personal, uncultivated desires to perform familial obligations and ritual duties (Ivanhoe, 2013). |
+| **6. Protection Target** | The socio-political order, the integrity of the family unit, and the ethical moral fabric of the practicing agent (Nylan, 2001). |
+| **7. Contested?** | **Yes.*** Scholars dispute whether *rén* represents a specific virtue (benevolence alongside wisdom and righteousness) or the overarching, comprehensive summary of all human virtues combined (Shun, 1997). |
+> *** Dispute Note:** The specific vs. general virtue debate directly impacts whether *rén* is interpreted purely as affective care or as an entire systemic framework of psychological excellence.
+> 
+### Concept 2: Jiān’ài (兼愛)
+| Field | Extraction Data |
+|---|---|
+| **1. Tradition** | Chinese (Mohist) |
+| **2. Love Concept** | 兼愛 (*jiān'ài* / Inclusive Care, Universal Love, Impartial Care) |
+| **3. Core Claim** | *Jiān'ài* eliminates systemic socio-political conflict by requiring agents to regard the well-being, families, and states of others precisely as they regard their own (Fraser, 2016). |
+| **4. Mechanism** | Mutual reciprocity (*xiang ai* / 相愛) and consequence-maximization. The active principle is cognitive and volitional impartiality driven by state-level utilitarian evaluation: treating others benefit-for-benefit to maximize overall population wealth, population size, and social order (Wong, 1989; Fraser, 2016). |
+| **5. Cost** | Demands the complete abandonment of preferential treatment based on kinship or proximity; costs are borne by the individual and family units whose special claims to resources or affection are overridden by systemic social utility (Wong, 1989). |
+| **6. Protection Target** | The material and physical well-being of the collective populace, specifically protecting individuals from war, theft, tyranny, and systemic deprivation (Fraser, 2016). |
+| **7. Contested?** | **Yes.*** Scholars actively debate whether *jiān'ài* requires an inner emotional attitude of equal affection for all human beings, or whether it strictly commands an external, impartial behavioral practice of rendering material aid regardless of emotional attachment (Wong, 1989; Fraser, 2016). |
+> *** Dispute Note:** This dispute hinges on whether Mohism demands psychological egalitarianism or merely functional, behavioral egalitarianism.
+> 
+## Cross-Tradition Lineage Flags
+ * **Conflict / Boundary Layer:** *Rén* (Confucian) and *Jiān'ài* (Mohist) developed in direct, explicit adversarial opposition during the Warring States period. The texts of Mencius explicitly attack *jiān'ài* as unnatural and destructive to the foundational structure of the family, while the *Mozi* explicitly attacks *rén* as nepotistic, elitist, and a direct cause of civil warfare due to its structural partiality (Shun, 1997; Fraser, 2016).
+ * **External Lineage (Buddhist Intersection):** Later developments of *rén* in post-classical periods interacted heavily with imported Buddhist concepts of *karuṇā* (compassion), but within this early classical scope, the boundaries are isolated strictly to intra-Chinese philosophical polemics (Ivanhoe, 2013).
+## Technical & Epistemological Flags
+ * **Translation Ambiguity:** The term *ài* (愛) on its own is treated with high volatility in the sources. In Confucian texts, uncultivated *ài* can degenerate into raw, problematic attachment or possessiveness. In Mohist texts, *ài* is explicitly wedded to *jiān* (inclusive/impartial) to strip it of emotional partiality.
+ * **Gaps in Data (Field 6 - Protection Targets):** Neither classical tradition frames love using contemporary rights-based or vulnerability-based "protection" language. The protection targets listed above are extracted from statements regarding the *functional consequences* of failing to practice the concepts (e.g., the breakdown of the state or family), not from explicit textual declarations of defensive targeting.
+## E1 — HYPOTHESIS ONLY
+> [!NOTE]
+> *The following observation is speculative and intended solely for subsequent analytical phases.*
+> The structural divergence between *rén* and *jiān'ài* suggests that Early Chinese models of love are fundamentally defined by their cognitive geometry. *Rén* operates on a concentric vector space where distance dictates weight, making proximity a prerequisite for moral authenticity. *Jiān'ài* operates on a scalar field where distance is nullified by an egalitarian multiplier. The entire philosophical landscape of classical Chinese thought can be read as a optimization dispute over whether human cognitive architecture can tolerate a scalar field without structural collapse.
+> 
+## Handoff & Technical Status Report
+### What Succeeded
+The extraction successfully isolated the precise mechanism of Confucian extension (*tui*) from Mohist functional impartiality (*jiān'ài*). These two concepts possess deeply robust, peer-reviewed, explicitly argued definitions across English-language sinological scholarship.
+### What Failed
+Attempts to isolate a distinct, standalone operational definition for Daoist love-concepts within classical scholarship yielded insufficient explicit data. While concepts like *cidian* (compassion/deep love) occur in the *Daodejing*, peer-reviewed philosophical analysis frequently classifies these as reactions to or sub-variants of political cosmology rather than standalone structural frameworks of human relational love analogous to *rén* or *jiān'ài*. They were omitted to strictly preserve G4 rigidity.
+### Unverified Sources
+We sought but could not verify access to specific comparative chapters within *The Oxford Handbook of Chinese Philosophy* regarding late imperial transformations of *rén*, restricting this sheet strictly to the classical/early foundational layers.
+### Notes for the Next Extractor/Reviewer
+Pay close attention to the mechanism field when aligning this matrix with Western or South Asian traditions. The Confucian mechanism relies entirely on a developmental psychology paradigm (family as a moral incubator), whereas the Mohist mechanism relies on an external normative framework (Heaven's intent / societal utility). Do not let future synthesis steps conflate *jiān'ài* with Western *agapē*; *agapē* often flows down from a divine source as an unearned gift, whereas *jiān'ài* operates horizontally as a strictly logical system of reciprocal societal survival.
